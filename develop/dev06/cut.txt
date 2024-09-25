@@ -1,0 +1,9 @@
+1234
+dsf   dsaf
+fsafsdafsdfsdaf
+f fd fs as dsaf 
+@#$%^(*)
+
+
+
+env XDG_SESSION_TYPE=x11 discord
